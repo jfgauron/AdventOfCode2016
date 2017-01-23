@@ -1,0 +1,4 @@
+﻿  day11.cpp
+d:\jf\programming\adventofcode2016\adventofcode2016\day11.cpp(41): warning C4715: 'findObjectFloor': not all control paths return a value
+  AdventOfCode2016.vcxproj -> D:\JF\Programming\AdventOfCode2016\Debug\AdventOfCode2016.exe
+  AdventOfCode2016.vcxproj -> D:\JF\Programming\AdventOfCode2016\Debug\AdventOfCode2016.pdb (Partial PDB)
